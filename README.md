@@ -1,2 +1,5 @@
-# velour-atelier-fashion
-Elegant monochrome fashion website concept built with HTML, Tailwind CSS and JavaScript.
+# Velour Atelier
+
+Monochrome fashion storefront
+
+Stack: HTML5, Tailwind CSS, Vanilla JavaScript.
